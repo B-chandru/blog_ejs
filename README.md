@@ -11,3 +11,32 @@ In this repository ur going to know about how to create a rest api and connect i
 **DataBase:** Mongodb
 
 **Server:** Node, Express, Mongoose
+
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/B-chandru/blog_ejs.git
+```
+
+Go to the project directory
+
+```bash
+  cd blog_ejs
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run dev
+```
+
+  
