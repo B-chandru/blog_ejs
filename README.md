@@ -38,5 +38,7 @@ Start the server
 ```bash
   npm run dev
 ```
+## video link:
 
+https://www.awesomescreenshot.com/video/4331306?key=b2f5f736cb7d8f220032412d45e80112
   
